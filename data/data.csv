@@ -1,0 +1,6 @@
+id,nom,type,etat,annee_installation
+1,PC-001,pc,en_service,2019
+2,PC-002,pc,en_service,2021
+3,SRV-01,serveur,en_panne,2016
+4,LAP-22,laptop,en_service,2020
+5,PC-010,pc,hors_service,2015
