@@ -1,4 +1,5 @@
-# IT Assets Data Analysis (Python)
+Analayse de données (Python)
+(Projet en cours ...)
 
 Projet simple en Python pour démontrer la maîtrise de :
 - la manipulation de données (Pandas)
